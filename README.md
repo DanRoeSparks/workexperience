@@ -67,6 +67,11 @@ Ask what this command does before running it - never run a command without knowi
 
 Now we need to set up some basic user information so Git knows who we are.
 
+Use the following commands to set your user and email:
+
+`git config --global user.name "YOUR_NAME"`
+
+`git config --global user.email "YOUR_EMAIL"`
 
 
 ## Install Ansible
