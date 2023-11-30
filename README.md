@@ -1,6 +1,6 @@
 # workexperience
 
-DevOps Work Experience Repository for AGS
+DevOps Work Experience Repository for AGS.
 
 ## What Are We Going to Do, Then?
 
